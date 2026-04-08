@@ -3,3 +3,5 @@
   "dev": "nodemon server.js",
   "db:init": "node database/init.js"
 }
+"seed": "node database/seed.js"
+"test": "jest"
